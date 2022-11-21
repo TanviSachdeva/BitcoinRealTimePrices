@@ -1,4 +1,4 @@
-# Mondu Frontend challenge - Tanvi
+# Bitcoin price display - Tanvi
 
 Clone or download the code,
 do npm install,
